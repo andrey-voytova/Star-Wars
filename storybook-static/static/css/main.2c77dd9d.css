@@ -1,0 +1,45 @@
+:root {
+    --font-size-small: 14px;
+    --font-family-main: sans-serif;
+    --font-bold: 600;
+    --color-white: #fff;
+    --color-black: #000;
+    --color-grey:#9c9c9c;
+}
+.UIButton_button__clmbp {
+    min-width: 100px;
+    padding: 10px;
+    font-size: var(--font-size-small);
+    font-family: var(--font-size-small);
+    font-weight: var(--font-bold);
+    background: none;
+    outline: none;
+    transition: 0.4s;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.UIButton_button__clmbp:disabled,
+.UIButton_button__clmbp:disabled:hover{
+    color: var(--color-grey);
+    background-color: transparent;
+    border-color: var(--color-grey);
+    cursor: auto;
+}
+.UIButton_dark__7fS3S{
+    border: 1px solid var(--color-white);
+    color: var(--color-white);
+}
+.UIButton_dark__7fS3S:hover{
+    background-color: var(--color-white);
+    color: var(--color-black);
+}
+.UIButton_light__m1w73{
+    border: 1px solid var(--color-black);
+    color: var(--color-black);
+}
+.UIButton_light__m1w73:hover{
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+
+/*# sourceMappingURL=main.2c77dd9d.css.map*/

@@ -1,0 +1,15 @@
+:root {
+    --font-size-small: 14px;
+    --font-family-main: sans-serif;
+    --font-bold: 600;
+    --color-white: #fff;
+    --color-black: #000;
+    --color-grey:#9c9c9c;
+}
+
+*, *:after, *:before{
+    box-sizing: border-box;
+}
+img{
+    display: block;
+  }
