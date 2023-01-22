@@ -28,7 +28,7 @@ const routesConfig = [
         element: <SearchPage/>
     },
     {
-        path: '*',
+        path: '/*',
         element: <ErrorPage/>
     },
     {
