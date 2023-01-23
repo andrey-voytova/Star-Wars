@@ -12,7 +12,7 @@ import ThemeProvider from './context/ThemeProvider';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
-    <HashRouter  >
+    <HashRouter>
         <Provider store={store}>
             <ThemeProvider>
                 <App/>
