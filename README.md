@@ -1,6 +1,6 @@
 
 # STAR-WARS
-## [https://andrey-voytova.github.io/star-wars/](ссылка gh-pages)
+## https://andrey-voytova.github.io/star-wars/ (ссылка gh-pages)
 ## темы приложения
 ### |REACT JS
 - Разворачивание приложения при помощи create-react-app
@@ -27,6 +27,6 @@
 - Переключаемые темы css
 - Работа с @media
 ### |API
-- [https://swapi.dev](основное API)
-- [https://starwars-visualguide.com](изображения для API)
+- https://swapi.dev (основное API)
+- https://starwars-visualguide.com (изображения для API)
 
